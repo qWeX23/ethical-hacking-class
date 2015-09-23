@@ -1,4 +1,4 @@
-# Encodes and Decodes b64 -- BJC -- 9/22/15
+# Encodes and Decodes b64 -- BJC -- 9/22/15 -- a4script2.py
 import base64
 Continue = True
 
