@@ -1,4 +1,4 @@
-# Encodes and Decodes b64 -- BJC -- 9/22/15 -- a4script2.py
+# Encodes and Decodes b64 -- BJC -- 9/22/15 -- a4script1.py
 import base64
 Continue = True
 
@@ -8,11 +8,15 @@ while Continue == True:
     if Choice =="E":
         Input = raw_input("Enter string to be encrypted")
         Output = base64.b64encode(Input)
+        print " \ninput is:"
+        print Input
         print " \noutput is:"
         print Output
     elif Choice =="D":
          Input = raw_input("Enter string to be decrypted")
          Output = base64.b64decode(Input)
+         print " \ninput is:"
+         print Input
          print " \noutput is:"
          print Output
     elif Choice =="Q":

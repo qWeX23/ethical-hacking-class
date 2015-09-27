@@ -16,20 +16,30 @@ while Continue == True:
                 Continue2 = False
                 Input  = raw_input("Enter string to be encrypted")
                 Output = base64.b64encode(Input)
+                print "\ninput is:"
+                print Input
                 print " \noutput is:"
                 print Output
             elif Choice2 == "M":
                 Continue2 = False
+                Input = raw_input("Enter string to be encrypted")
+                print "\ninput is:"
+                print Input
                 print "\noutput is:"
-                print base64.b64encode(hashlib.md5(raw_input("Enter string to be encrypted")).hexdigest())
-                print "not done yet"
+                output= base64.b64encode(hashlib.md5(Input).hexdigest())
+                print output
             elif Choice2 == "S":
                 Continue2 = False
+                Input = raw_input("Enter string to be encrypted")
+                print "\ninput is:"
+                print Input
                 print "\noutput is:"
-                print base64.b64encode(hashlib.sha1(raw_input("Enter string to be encrypted")).hexdigest())
+                print base64.b64encode(hashlib.sha1(Input).hexdigest())
     elif Choice =="D":
          Input = raw_input("Enter string to be decrypted")
          Output = base64.b64decode(Input)
+         print "\ninput is:"
+         print Input
          print " \noutput is:"
          print Output
     elif Choice =="Q":

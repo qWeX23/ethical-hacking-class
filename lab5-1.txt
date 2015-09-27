@@ -1,0 +1,117 @@
+        <li><a href="//www.cisco.com/c/en/us/index.html" tabindex="4">Home</a></li>
+        <li><a href="#fw-content">Skip to content</a></li>
+        <li><a href="#fw-footer" class="last">Skip to footer</a></li>
+            <li class="no-pipe"><a href="http://www.cisco.com/web/siteassets/locator/index.html">Worldwide [change]</a></li>
+                <li><a href="/c/login/index.html?referer=/c/en/us/index.html">Log In</a></li>
+            <li><a href="http://www.cisco.com/web/siteassets/account/index.html">Account</a></li>
+                <li class="no-pipe"><a href="http://tools.cisco.com/RPF/register/register.do">Register</a></li>
+        <div id="mycisco"><a href="//www.cisco.com/cisco/psn/web/workspace">My Cisco</a></div>
+ <a href="/c/en/us/products/index.html">Products &amp; Services</a>
+ <a href="/web/fw/co/menu-content.html#products-mm-menu" class="mm-reflink">(menu)</a>
+    <a href="/c/en/us/support/index.html">Support</a>
+    <a href="/web/fw/co/menu-content.html#support-mm-menu" class="mm-reflink">(menu)</a>
+   <a href="/web/ordering/root/index.html">How to Buy</a>
+   <a href="/web/fw/co/menu-content.html#ordering-mm-menu" class="mm-reflink">(menu)</a>
+ <a href="/web/learning/index.html">Training & Events</a>
+ <a href="/web/fw/co/menu-content.html#training-mm-menu" class="mm-reflink">(menu)</a>
+ <a href="/web/partners/index.html">Partners</a>
+ <a href="/web/fw/co/menu-content.html#partner-mm-menu" class="mm-reflink">(menu)</a>
+          <li> <a href="/c/en/us/solutions/enterprise/design-zone/index.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Design Guides" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/design-guides.png"></a>
+               <a href="/c/en/us/solutions/enterprise/design-zone/index.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Design Guides</a></li>
+          <li> <a href="http://tools.cisco.com/GlobalLearningLocator/LLocatorHome.do" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Learning" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/learning.png"></a>
+               <a href="http://tools.cisco.com/GlobalLearningLocator/LLocatorHome.do" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Learning</a></li>
+          <li> <a href="http://www.cisco.com/web/learning/training-index.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Career Certifications" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/career-certifications.png"></a>
+               <a href="http://www.cisco.com/web/learning/training-index.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Career Certifications</a></li>
+          <li> <a href="https://software.cisco.com/download/navigator.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Software Downloads" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/software-downloads.png"></a>
+               <a href="https://software.cisco.com/download/navigator.html" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Software Downloads</a></li>
+          <li> <a href="https://supportforums.cisco.com" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Support Community" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/support-community.png"></a>
+               <a href="https://supportforums.cisco.com" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Support Community</a></li>
+          <li> <a href="https://tools.cisco.com/ServiceRequestTool/scm/mgmt/case" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" data-config-metrics-item="Support Cases" class="icon"><img src="//www.static-cisco.com/assets/dmr/homepage/quicktasks/support-cases.png"></a>
+               <a href="https://tools.cisco.com/ServiceRequestTool/scm/mgmt/case" data-config-metrics-group="quick_tasks" data-config-metrics-title="prospects" class="content">Tech Support Cases</a></li>
+	<div class="content"><h2><a href="https://mobilitygame.inverra.com/" target="_blank" data-config-metrics-group="featured_ads" data-config-metrics-title="ad1">Mobility Motor Mania</a></h2>
+	<div class="content"><h2><a href="http://www.iotwf.com" target="_blank" data-config-metrics-group="featured_ads" data-config-metrics-title="ad2">Internet of Things World Forum 2015</a></h2>
+<div class="content"><h2><a href="http://blogs.cisco.com/manufacturing/ciscochat-industrial-security-critical-for-digital-manufacturing" data-config-metrics-group="featured_ads" data-config-metrics-title="ad3">#CiscoChat on industrial security</a></h2>
+     <h3><a href="/c/r/en/us/internet-of-everything-ioe/collaboration/vision/index.html?CAMPAIGN=Internet+of+Everything&COUNTRY_SITE=us&POSITION=featuredcampaign&REFERRING_SITE=cisco.com+homepage&CREATIVE=featured+campaign+to+ioe+voc+case+study+hamburg+university+medical+center+to+collaboration+vision+tab">Go to school from a hospital room</a></h3>
+         <a href="/c/r/en/us/internet-of-everything-ioe/tomorrow-starts-here/index.html?CAMPAIGN=integrated+awareness&COUNTRY_SITE=us&POSITION=featuredcampaign&REFERRING_SITE=cisco%2Ecom+homepage&CREATIVE=+ioe+solutions+cta+to+iac+landing+page" data-config-metrics-title="Go to school from a hospital room" data-config-metrics-group="featured_campaign">IoE solutions</a><br>
+         <a href="https://grs.cisco.com/grsx/cust/grsCustomerSurvey.html?SurveyCode=10824&KeyCode=000772239&_ga=1.133829902.1093259976.1391029590&CAMPAIGN=integrated+awareness&COUNTRY_SITE=us&POSITION=featuredcampaign&REFERRING_SITE=cisco%2Ecom+homepage&CREATIVE=contact+us+cta+to+contact+us+GRS+form" target="_blank">Contact us</a><br>
+         <a href="https://ioeassessment.cisco.com/assessment#/0/0?CAMPAIGN=integrated+awareness&COUNTRY_SITE=us&POSITION=featuredcampaign&REFERRING_SITE=cisco%2Ecom+homepage&CREATIVE=ioe+assessment+tool+cta+to+assessment" target="_blank" data-config-metrics-title="Go to school from a hospital room" data-config-metrics-group="featured_campaign">IoE assessment tool </a>
+	<p><a href="http://www.cisco.com/c/en/us/products/index.html" data-config-metrics-group="featured_products" data-config-metrics-title="featured products" onclick="javascript:void(0);">See all products</a></p>
+				<h3><a href="/c/en/us/products/wireless/industrial-wireless-3700-series/index.html">Cisco Industrial Wireless 3700 Series Access Points</a></h3>
+				<h3><a href="/c/en/us/products/servers-unified-computing/ucs-c3260-rack-server/index.html">Cisco UCS 3260 Dual Node High-Density Rack Server</a></h3>
+				<h3><a href="/c/en/us/products/routers/rv130w-wireless-n-multifunction-vpn-router/index.html">Cisco RV130W Wireless-N Multifunction VPN Router</a></h3>
+                <h3 class="title"><a href="http://newsroom.cisco.com/" data-config-metrics-group="news_social" data-config-metrics-title="latest news">Latest News</a></h3>
+                        <h3 class="title"><a href="http://communities.cisco.com" data-config-metrics-group="blogs_and_communities" data-config-metrics-title="Success Awaits You.">Success Awaits You</a></h3>
+                        <p class="desc">Connect with experts, go deep into discussions you care about, hear executive insights on trends.<span>&nbsp;<a href="http://communities.cisco.com" class="cta" data-config-metrics-group="blogs_and_communities" data-config-metrics-title="Jump into the conversation">Jump into the conversation.</a></span></p>
+	    <h4><a href="/c/en/us/solutions/index.html">Information For</a></h4>
+			<li><a href="//www.cisco.com/cisco/web/solutions/small_business/index.html">Small Business</a></li>
+		    <li><a href="//www.cisco.com/web/midsize/index.html">Midsize Business</a></li>
+			<li><a href="/c/en/us/solutions/service-provider/index.html">Service Provider</a></li>
+			<li><a href="/c/en/us/solutions/executive-perspectives/index.html">Executives</a></li>
+		<h4><a href="//www.cisco.com/web/strategy/index.html">Industries</a>
+<li><a href="//www.cisco.com/web/strategy/automotive/index.html">Automotive</a></li>
+<li><a href="//www.cisco.com/web/strategy/cpg/index.html">Consumer Packaged Goods</a></li>
+<li><a href="//www.cisco.com/web/strategy/education/index.html">Education</a></li>
+<li><a href="//www.cisco.com/web/strategy/energy/index.html">Energy</a></li>
+<li><a href="//www.cisco.com/web/strategy/financial/index.html">Financial Services</a></li>
+<li><a href="//www.cisco.com/web/strategy/government/index.html">Government</a></li>
+<li><a href="//www.cisco.com/web/strategy/healthcare/index.html">Healthcare</a></li>
+<li><a href="//www.cisco.com/web/strategy/hospitality/index.html">Hospitality</a></li>
+<li><a href="//www.cisco.com/web/strategy/life-sciences/index.html">Life Sciences</a></li>
+<li><a href="//www.cisco.com/web/strategy/manufacturing/index.html">Manufacturing</a></li>
+<li><a href="//www.cisco.com/web/strategy/materials-mining/index.html">Materials and Mining</a></li>
+<li><a href="//www.cisco.com/web/strategy/public_sector/index.html">Public Sector</a></li>
+<li><a href="//www.cisco.com/web/strategy/retail/index.html">Retail</a></li>
+<li><a href="//www.cisco.com/web/strategy/smart_connected_communities.html">Smart +Connected Communities</a></li>
+<li><a href="//www.cisco.com/web/strategy/sports/index.html">Sports and Entertainment</a></li>
+<li><a href="//www.cisco.com/web/strategy/transportation/index.html">Transportation</a></li>
+<li><a href="//www.cisco.com/web/strategy/workplace/index.html">Workspace Transformation</a></li>
+<h4><a href="https://marketplace.cisco.com/">Marketplace</a></h4>	    
+<h4><a href="//www.cisco.com/cisco/web/siteassets/contacts/index.html">Contacts</a></h4>
+			<li><a href="//www.cisco.com/cisco/web/siteassets/contacts/index.html">Contact Cisco</a></li>
+			<li><a href="//tools.cisco.com/WWChannels/LOCATR/openBasicSearch.do">Find a Reseller</a></li>
+	    <h4><a href="http://newsroom.cisco.com/">News &amp; Alerts</a></h4>
+			<li><a href="http://newsroom.cisco.com/">Newsroom</a></li>
+			<li><a href="//blogs.cisco.com/">Blogs</a></li>
+			<li><a href="/c/en/us/support/web/tsd-products-field-notice-summary.html">Field Notices</a></li>
+			<li><a href="http://tools.cisco.com/security/center/publicationListing.x">Security Advisories</a></li>
+	    <h4><a href="//www.cisco.com/web/solutions/trends/index.html">Technology Trends</a></h4>
+			<li><a href="http://www.cisco.com/web/solutions/trends/cloud/index.html">Cloud</a></li>
+                        <li><a href="http://www.cisco.com/web/solutions/trends/iot/overview.html">Internet of Things (IoT)</a></li>
+                        <li><a href="http://www.cisco.com/web/solutions/trends/sdn/index.html">Software Defined Networking (SDN)</a></li>
+	    <h4><a href="/c/en/us/support/index.html">Support</a></h4>
+			<li><a href="http://software.cisco.com/download/navigator.html?i=!ch">Downloads</a></li>
+			<li><a href="//www.cisco.com/cisco/web/psa/default.html">Documentation</a></li>
+	    <h4><a href="https://communities.cisco.com/welcome">Communities</a></h4>
+			<li><a href="http://developer.cisco.com/">DevNet</a></li>
+			<li><a href="https://learningnetwork.cisco.com">Learning Network</a></li>
+			<li><a href="https://supportforums.cisco.com/index.jspa">Support Community</a></li>
+		<h4><a href="http://video.cisco.com/">Video Portal</a>
+						<li><a href="http://video.cisco.com/#category/videos/certifications" target="_blank">Certifications</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/events" target="_blank">Events</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/industries" target="_blank">Industries</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/inside-cisco" target="_blank">Inside Cisco</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/products" target="_blank">Products</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/service-provider" target="_blank">Service Provider</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/services" target="_blank">Services</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/technology-trends" target="_blank">Technology Trends</a></li>
+						<li><a href="http://video.cisco.com/#category/videos/techwisetv" target="_blank">TechWiseTV</a></li>
+	    <h4><a href="//www.cisco.com/web/about/index.html">About Cisco</a></h4>
+			<li><a href="http://investor.cisco.com/">Investor Relations</a></li>
+			<li><a href="//csr.cisco.com/" target="_blank">Corporate Social Responsibility</a></li>
+			<li><a href="//csr.cisco.com/pages/environment" target="_blank">Environmental Sustainability</a></li>
+                <li><a href="/c/r/en/us/internet-of-everything-ioe/tomorrow-starts-here/index.html?CAMPAIGN=tomorrowstartshere&COUNTRY_SITE=us&POSITION=link&REFERRING_SITE=Cisco.com+homepage&CREATIVE=homepage+fat+footer">Tomorrow Starts Here</a></li>
+                        <li><a href="http://weare.cisco.com">Our People</a></li>
+<h4><a href="//www.cisco.com/web/about/ac40/about_cisco_careers_home.html">Careers</a></h4>
+<li><a href="http://jobs.cisco.com/?utm_source=careersite&utm_campaign=CDC_MainFooter" target="_blank">Search Jobs</a></li>
+<li><a href="//www.cisco.com/web/about/ac40/life_at_cisco.html">Life at Cisco</a></li>
+			<li><a href="//www.cisco.com/web/communities/vip/index.html">Cisco Designated VIP Program</a></li>
+			<li><a href="//www.cisco.com/web/solutions/trends/cisco-powered/index.html">Cisco Powered</a></li>
+			<li><a href="http://www.cisco.com/web/ciscocapital/americas/us/index.html">Financing Options</a></li>
+        <li><a href="//www.cisco.com/cisco/web/siteassets/contacts/index.html">Contacts</a></li>
+        <li><a href="https://secure.opinionlab.com/ccc01/o.asp?id=jBjOhqOJ">Feedback</a></li>
+        <li><a href="//www.cisco.com/web/help/index.html">Help</a></li>
+        <li><a href="//www.cisco.com/web/siteassets/sitemap/index.html">Site Map</a></li>
+        <li><a href="//www.cisco.com/web/siteassets/legal/terms_condition.html">Terms &amp; Conditions</a></li>
+            <a href="//www.cisco.com/web/siteassets/legal/privacy_full.html"><span>Privacy</span><span>Privacy Statement</span></a>
+            <a href="//www.cisco.com/web/siteassets/legal/privacy_full.html#cookies"> <span>Cookies</span><span>Cookie Policy</span></a>
+        <li><a href="//www.cisco.com/web/siteassets/legal/trademark.html">Trademarks</a></li>
